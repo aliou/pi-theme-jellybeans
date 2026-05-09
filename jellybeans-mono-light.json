@@ -1,5 +1,5 @@
 {
-  "$schema": "https://raw.githubusercontent.com/badlogic/pi-mono/main/packages/coding-agent/src/modes/interactive/theme/theme-schema.json",
+  "$schema": "https://raw.githubusercontent.com/earendil-works/pi-mono/main/packages/coding-agent/src/modes/interactive/theme/theme-schema.json",
   "name": "jellybeans-mono-light",
   "vars": {
     "foreground": "#252525",
@@ -13,6 +13,7 @@
     "greyThree": "#e0d8d0",
     "regentGrey": "#757a82",
     "scorpion": "#909090",
+    "codGrey": "#f5f5f5",
     "tundora": "#606060",
     "zambezi": "#605958",
     "silverRust": "#6a6564",
@@ -26,13 +27,24 @@
     "shuttleGrey": "#939da6",
     "mineShaft": "#d7c8b8",
     "temptress": "#ffe5ea",
+    "bayouxBlue": "#576270",
+    "totalWhite": "#000000",
+    "totalBlack": "#ffffff",
     "cadetBlue": "#505860",
     "oldBrick": "#e8d0c8",
     "error": "#cc0000",
     "warning": "#a36000",
     "info": "#0060a3",
     "hint": "#796858",
-    "ok": "#3d6c25"
+    "ok": "#3d6c25",
+    "morningGlory": "#4a5e81",
+    "greenSmoke": "#7d7163",
+    "koromiko": "#707070",
+    "rawSienna": "#645c54",
+    "bilobaFlower": "#555555",
+    "goldenrod": "#7d7163",
+    "brandy": "#6a6564",
+    "wewak": "#645c54"
   },
   "colors": {
     "accent": "accent2",
@@ -92,5 +104,10 @@
     "thinkingXhigh": "warning",
 
     "bashMode": "warning"
+  },
+  "export": {
+    "pageBg": "background",
+    "cardBg": "brightGrey",
+    "infoBg": "greyThree"
   }
 }
