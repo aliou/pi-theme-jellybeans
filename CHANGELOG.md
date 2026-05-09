@@ -1,5 +1,11 @@
 # @aliou/pi-theme-jellybeans
 
+## 0.1.5
+
+### Patch Changes
+
+- c34c567: Update Jellybeans mono theme metadata and palette variables for current Pi theme schema.
+
 ## 0.1.4
 
 ### Patch Changes
