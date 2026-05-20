@@ -39,6 +39,6 @@ jobs:
         run: pnpm run --if-present test
 
   check-pi-install:
-    uses: aliou/pi-dev-kit/.github/workflows/check-pi-install.yml@chore/harmonize-workflows
+    uses: aliou/pi-dev-kit/.github/workflows/check-pi-install.yml@main
     with:
       repository: aliou/pi-theme-jellybeans
