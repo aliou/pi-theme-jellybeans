@@ -42,3 +42,4 @@ jobs:
     uses: aliou/pi-dev-kit/.github/workflows/check-pi-install.yml@main
     with:
       repository: aliou/pi-theme-jellybeans
+      ref: ${{ github.event.pull_request.head.sha || github.sha }}
