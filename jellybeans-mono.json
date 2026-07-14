@@ -34,6 +34,9 @@
     "oldBrick": "#f0e0d6",
     "error": "#c95c5c",
     "warning": "#ffaf00",
+    "amber": "#d89645",
+    "taupe": "#8a7a6a",
+    "magenta": "#ff5faf",
     "info": "#7a8aa6",
     "hint": "#a08070",
     "ok": "#afd787",
@@ -98,10 +101,11 @@
 
     "thinkingOff": "greyThree",
     "thinkingMinimal": "boulder",
-    "thinkingLow": "greyChateau",
+    "thinkingLow": "taupe",
     "thinkingMedium": "accent1",
-    "thinkingHigh": "accent2",
+    "thinkingHigh": "amber",
     "thinkingXhigh": "warning",
+    "thinkingMax": "magenta",
 
     "bashMode": "warning"
   },
