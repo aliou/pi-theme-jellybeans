@@ -1,5 +1,11 @@
 # @aliou/pi-theme-jellybeans
 
+## 0.1.7
+
+### Patch Changes
+
+- c87d226: Add the Pi `scrollbarThumb` color token so fullscreen scrollbars use the theme border color.
+
 ## 0.1.6
 
 ### Patch Changes
