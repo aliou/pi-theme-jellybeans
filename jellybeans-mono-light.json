@@ -63,6 +63,7 @@
     "thinkingText": "greyTwo",
 
     "selectedBg": "greyOne",
+    "scrollbarThumb": "tundora",
     "userMessageBg": "greyThree",
     "userMessageText": "foreground",
     "customMessageBg": "cocoaBrown",
