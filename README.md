@@ -58,3 +58,22 @@ Or in `settings.json`:
 ```json
 { "theme": "jellybeans-mono" }
 ```
+
+## Light and dark terminals
+
+Pi can pick a theme per terminal appearance. Store the light theme first, the
+dark theme second, separated by `/`:
+
+```json
+{ "theme": "jellybeans-mono-light/jellybeans-mono" }
+```
+
+For a single invocation:
+
+```bash
+pi --use-theme jellybeans-mono-light/jellybeans-mono
+```
+
+Pi decides whether the terminal is light or dark from its reported background
+and foreground colors, then the terminal's light/dark report, then the
+`COLORFGBG` environment variable, then dark.
