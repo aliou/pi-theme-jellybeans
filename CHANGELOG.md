@@ -1,5 +1,11 @@
 # @aliou/pi-theme-jellybeans
 
+## 0.1.8
+
+### Patch Changes
+
+- 7eb17f6: Declare `appearance` on both variants, add the optional `scrollbarTrack`, `searchMatchBg`, and `searchMatchText` color roles, point `$schema` at the canonical `https://pi.dev/schemas/theme.schema.json`, and document pi's `light/dark` theme-pair setting in the README.
+
 ## 0.1.7
 
 ### Patch Changes
