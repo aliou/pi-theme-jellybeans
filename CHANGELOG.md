@@ -1,5 +1,11 @@
 # @aliou/pi-theme-jellybeans
 
+## 0.1.9
+
+### Patch Changes
+
+- 86b2fd0: Ship `CHANGELOG.md` in the npm tarball so pi can show the changelog when the extension updates.
+
 ## 0.1.8
 
 ### Patch Changes
