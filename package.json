@@ -28,6 +28,7 @@
   },
   "files": [
     "*.json",
+    "CHANGELOG.md",
     "README.md"
   ],
   "scripts": {
